@@ -38,6 +38,12 @@ en:
       home: Home
       help: Help
       login: Log in
+      users: Users
+      account: Account
+      profile: Profile
+      settings: Settings
+      logout: Log out
+      login: Log in
     footer:
       about: About
       contact: Contact
@@ -87,3 +93,10 @@ en:
     error_messages:
       text-error: The form contains
       error: error
+  sessions:
+    new:
+      title: Log in
+      login: Log in
+      remember: Remember me on this computer
+      signup: Sign up now!
+      new_user: New user?
