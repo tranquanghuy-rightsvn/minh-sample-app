@@ -30,4 +30,52 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  layouts:
+    header:
+      home: Home
+      help: Help
+      login: Log in
+    footer:
+      about: About
+      contact: Contact
+      new: New
+      text-footer1: The 
+      text-footer2: Ruby on Rails Tutorial
+      text-footer3: by 
+      text-footer4: Michael Hartl
+  static_pages:
+    home:
+      welcome: Welcome to the Sample App
+      homepage1: This is the home page for the
+      homepage2: sample application.
+      name_link: Ruby on Rails Tutorial
+      btn-signup: Sign up now!
+    help:
+      title: Help
+      help: Help
+      text-help1: Get help on the Ruby on Rails Tutorial at the
+      text-help2: Rails Tutorial help section
+      text-help3: To get help on this sample app, see the
+      text-help4: Ruby on Rails Tutorial
+    about:
+      title: About
+      help: About
+      text-about1: The
+      text-about2: Ruby on Rails Tutoria
+      text-about3: is a
+      text-about4: book
+      text-about5: and
+      text-about6: screencast series
+      text-about7: to teach web development with
+      text-about8: Ruby on Rails
+      text-about9: This is the sample application for the tutorial.
+    contact:
+      title: Contact
+      contact: Contact
+      text-contact1: Contact the Ruby on Rails Tutorial about the sample app at the
+      text-contact2: contact page
+  users:
+    new:
+      title: Sign Up
+      signup: Sign Up
+      welcome: This will be a signup page for new users. 
