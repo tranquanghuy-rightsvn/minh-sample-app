@@ -3,6 +3,7 @@ $gray-light: #777;
 $gray: #555;
 $gray-darker: #222;
 $state-danger-text: red;
+$gray-lighter: #e8e8e8;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;
@@ -76,6 +77,18 @@ p {
 
 .dropdown-menu li a {
   color: #000;
+}
+
+/* Users index */
+
+.users {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    border-bottom: 1px solid $gray-lighter;
+  }
 }
 
 /* sidebar */

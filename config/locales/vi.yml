@@ -2,12 +2,15 @@ vi:
   messages:
     user:
       welcome: Chào mừng bạn đến với ứng dụng mẫu
+      profile: Hồ sơ cá nhân đã cập nhật
+      deleted: Người dùng đã bị xóa
+      login: Vui lòng hãy đăng nhập.
   layouts:
     header:
       home: Trang chủ
       help: Trợ giúp
       login: Đăng nhập
-      users: Users
+      users: Người dùng
       account: Tài khoản
       profile: Trang cá nhân
       settings: Cài đặt
@@ -58,6 +61,13 @@ vi:
       signup: Đăng ký
       welcome: Đây sẽ là trang đăng ký cho người dùng mới.
       create: Tạo tài khoản của tôi
+    edit:
+      title: Chỉnh sửa người dùng
+      update: Cập nhật hồ sơ của bạn
+      save: Lưu thay đổi
+      change: Thay đổi
+    index:
+      title: Tất cả người sử dụng
   shared:
     error_messages:
       text-error: Biểu mẫu chứa

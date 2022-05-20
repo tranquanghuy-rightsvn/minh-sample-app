@@ -33,6 +33,9 @@ en:
   messages:
     user:
       welcome: Welcome to the Sample App!
+      profile: Profile updated
+      deleted: User deleted
+      login: Please log in.
   layouts:
     header:
       home: Home
@@ -89,6 +92,13 @@ en:
       signup: Sign Up
       welcome: This will be a signup page for new users. 
       create: Create my account
+    edit:
+      title: Edit user
+      update: Update your profile
+      save: Save changes
+      change: Change
+    index:
+      title: All users
   shared:
     error_messages:
       text-error: The form contains
