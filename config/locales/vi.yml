@@ -1,0 +1,50 @@
+vi:
+  layouts:
+    header:
+      home: Trang chủ
+      help: Trợ giúp
+      login: Đăng nhập
+    footer:
+      about: Về chúng tôi
+      contact: Liên hệ
+      new: Mới 
+      text-footer1: Các
+      text-footer2: hướng dẫn sử dụng Ruby on Rails
+      text-footer3: của
+      text-footer4: Michael Hartl 
+  static_pages:
+    home:
+      welcome: Chào mừng bạn đến với trang mẫu
+      homepage1: Đây là trang chủ của
+      homepage2: ứng dụng mẫu.
+      name_link: Hướng dẫn sử dụng Ruby on Rails
+      btn-signup: Đăng ký ngay!
+    help:
+      title: Trợ giúp
+      help: Trợ giúp
+      text-help1: Nhận trợ giúp về Hướng dẫn Ruby on Rails tại
+      text-help2: Phần trợ giúp của Rails Tutorial
+      text-help3: Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
+      text-help4: Hướng dẫn sử dụng Ruby on Rails
+    about:
+      title: Về chúng tôi
+      about: Về chúng tôi
+      text-about1: Các
+      text-about2: hướng dẫn sử dụng Ruby on Rails
+      text-about3: là một
+      text-about4: sách 
+      text-about5: và 
+      text-about6: loạt phim truyền hình
+      text-about7: dạy phát triển web với
+      text-about8: Ruby on Rails
+      text-about9: Đây là ứng dụng mẫu cho hướng dẫn.
+    contact:
+      title: Liên hệ
+      contact: Liên hệ
+      text-contact1: Liên hệ với Hướng dẫn về Ruby on Rails về ứng dụng mẫu tại
+      text-contact2: Trang liên lạc
+  users:
+    new:
+      title: Đăng ký 
+      signup: Đăng ký
+      welcome: Đây sẽ là trang đăng ký cho người dùng mới.
