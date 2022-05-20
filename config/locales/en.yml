@@ -30,6 +30,9 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
+  messages:
+    user:
+      welcome: Welcome to the Sample App!
   layouts:
     header:
       home: Home
@@ -79,3 +82,8 @@ en:
       title: Sign Up
       signup: Sign Up
       welcome: This will be a signup page for new users. 
+      create: Create my account
+  shared:
+    error_messages:
+      text-error: The form contains
+      error: error

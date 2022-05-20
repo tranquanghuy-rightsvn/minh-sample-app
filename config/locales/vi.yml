@@ -1,4 +1,7 @@
 vi:
+  messages:
+    user:
+      welcome: Chào mừng bạn đến với ứng dụng mẫu
   layouts:
     header:
       home: Trang chủ
@@ -48,3 +51,8 @@ vi:
       title: Đăng ký 
       signup: Đăng ký
       welcome: Đây sẽ là trang đăng ký cho người dùng mới.
+      create: Tạo tài khoản của tôi
+  shared:
+    error_messages:
+      text-error: Biểu mẫu chứa
+      error: lỗi
