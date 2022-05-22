@@ -7,6 +7,12 @@ vi:
       home: Trang chủ
       help: Trợ giúp
       login: Đăng nhập
+      users: Users
+      account: Tài khoản
+      profile: Trang cá nhân
+      settings: Cài đặt
+      logout: Đăng xuất
+      login: Đăng nhập
     footer:
       about: Về chúng tôi
       contact: Liên hệ
@@ -56,3 +62,10 @@ vi:
     error_messages:
       text-error: Biểu mẫu chứa
       error: lỗi
+  sessions:
+    new:
+      title: Đăng nhập
+      login: Đăng nhập
+      remember: Hãy nhớ tôi trên máy tính này
+      signup: Đăng ký ngay!
+      new_user: Người dùng mới?
