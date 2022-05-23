@@ -1,0 +1,10 @@
+<% provide :title, t(".title") %>
+<h1 class="mb-40"><%= t ".title" %></h1>
+
+<%= paginate @users, theme: "twitter-bootstrap-4", pagination_class: "pagination-sm", nav_class: "d-inline-b" %>
+
+<ul class="users">
+  <%= render @users %>
+</ul></br>
+
+<%= paginate @users, theme: "twitter-bootstrap-4", pagination_class: "pagination-sm", nav_class: "d-inline-b" %>
